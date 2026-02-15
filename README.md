@@ -2,6 +2,9 @@
 
 Ultimate portable autoclicker and key spammer for Windows.
 
+[VirusTotal](https://www.virustotal.com/gui/file/f44abf95645e141df9661ba18632d35a3d0602de77d9b9e8d5b76b2eac935859)
+[Tria.ge](https://tria.ge/260212-a7wjsaew8a/behavioral1)
+
 ## Features
 
 - **Hardware-level input** via SendInput — works on games, browsers, Flash, everything
@@ -37,7 +40,7 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /target:winexe /out:Auto
 
 
 With custom icon:
-
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /target:winexe /win32icon:icon.ico /out:AutoClickerPro.exe AutoClickerPro.cs
 
 ## Usage
 
@@ -52,8 +55,8 @@ With custom icon:
 
 A-Z, 0-9, F1-F12, SPACE, ENTER, TAB, ESC, SHIFT, CTRL, ALT,
 UP, DOWN, LEFT, RIGHT, BACKSPACE, DELETE, INSERT, HOME, END,
-PAGEUP, PAGEDOWN, NUM0-NUM9, CAPSLOCK, NUMLOCK, and more.
-
+PAGEUP, PAGEDOWN, NUM0-NUM9, CAPSLOCK, NUMLOCK, and more. 
+(Might have missed some but most are supported really.)
 Separate multiple keys with commas: `A, SPACE, ENTER`
 
 ## Requirements
