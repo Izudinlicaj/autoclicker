@@ -1,3 +1,5 @@
+<img width="546" height="619" alt="image" src="https://github.com/user-attachments/assets/b29408c5-b941-4bc7-849c-a1bce2f29bf1" />
+
 # AutoClicker
 
 Ultimate portable autoclicker and key spammer for Windows.
