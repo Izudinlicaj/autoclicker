@@ -1,4 +1,4 @@
-# AutoClicker Pro v2.0
+# AutoClicker
 
 Ultimate portable autoclicker and key spammer for Windows.
 
@@ -27,7 +27,7 @@ Ultimate portable autoclicker and key spammer for Windows.
 
 ## Download
 
-Grab `AutoClickerPro.exe` from [Releases](../../releases).
+Grab `AutoClicker.exe` from [Releases](../../releases).
 
 No installation needed. Just run it.
 
@@ -35,7 +35,7 @@ No installation needed. Just run it.
 
 You don't need Visual Studio. The compiler is already on your Windows PC:
 
-C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /target:winexe /out:AutoClickerPro.exe AutoClickerPro.cs
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /target:winexe /out:AutoClicker.exe AutoClickerPro.cs
 
 
 With custom icon:
@@ -43,7 +43,7 @@ With custom icon:
 
 ## Usage
 
-1. Run `AutoClickerPro.exe`
+1. Run `AutoClicker.exe`
 2. Configure speed, button, position in the **Mouse** tab
 3. Configure key spamming in the **Keyboard** tab
 4. Adjust burst mode, jitter, hotkey in the **Advanced** tab
