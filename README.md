@@ -1,11 +1,12 @@
-<img width="546" height="619" alt="image" src="https://github.com/user-attachments/assets/b29408c5-b941-4bc7-849c-a1bce2f29bf1" />
-
 # AutoClicker
 
 Ultimate portable autoclicker and key spammer for Windows.
 
 [VirusTotal](https://www.virustotal.com/gui/file/f44abf95645e141df9661ba18632d35a3d0602de77d9b9e8d5b76b2eac935859)
 [Tria.ge](https://tria.ge/260212-a7wjsaew8a/behavioral1)
+
+<img width="546" height="619" alt="image" src="https://github.com/user-attachments/assets/b29408c5-b941-4bc7-849c-a1bce2f29bf1" />
+
 ## Features
 
 - **Hardware-level input** via SendInput — works on games, browsers, Flash, everything
