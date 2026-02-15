@@ -1,7 +1,7 @@
 # AutoClicker
 
 Ultimate portable autoclicker and key spammer for Windows.
-(Please report bugs and issues for improvements and better quality software release 😊)
+- (Please report **bugs** and **issues** for improvement and better quality software releases 😊)
 
 [VirusTotal](https://www.virustotal.com/gui/file/f44abf95645e141df9661ba18632d35a3d0602de77d9b9e8d5b76b2eac935859)
 [Tria.ge](https://tria.ge/260212-a7wjsaew8a/behavioral1)
