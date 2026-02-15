@@ -2,8 +2,6 @@
 
 Ultimate portable autoclicker and key spammer for Windows.
 
-![Dark Mode UI](screenshot.png)
-
 ## Features
 
 - **Hardware-level input** via SendInput — works on games, browsers, Flash, everything
